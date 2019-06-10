@@ -1306,13 +1306,13 @@ u {
 
 .article-container {
     background-color: var(--colour-2);
-    width: 60vw;
-    height: 80vw;
+    width: 70vw;
+    height: 90vw;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    box-shadow: 0 10px 2vw rgba(0,0,0,0.45);
+    box-shadow: 0 10px 4vw rgba(0,0,0,0.2);
     transition-duration: 0.3s;
 }
 
@@ -1320,7 +1320,7 @@ u {
     left: 50%;
     top: 50%;
     transform: translate(-50%,calc(-50% - 1vw));
-    box-shadow: 0 10px 3.5vw rgba(0,0,0,0.4);
+    box-shadow: 0 10px 4.5vw rgba(0,0,0,0.3);
     cursor: pointer;
 }
 
@@ -2002,7 +2002,7 @@ u {
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    box-shadow: 0 10px 2vw rgba(0,0,0,0.45);
+    box-shadow: 0 10px 4vw rgba(0,0,0,0.2);
     transition-duration: 0.3s;
 }
 
@@ -2010,7 +2010,7 @@ u {
     left: 50%;
     top: 50%;
     transform: translate(-50%,calc(-50% - 1vw));
-    box-shadow: 0 10px 3.5vw rgba(0,0,0,0.4);
+    box-shadow: 0 10px 4.5vw rgba(0,0,0,0.3);
     cursor: pointer;
 }
 
